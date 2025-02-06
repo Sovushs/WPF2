@@ -2,3 +2,4 @@
 ![image](https://github.com/user-attachments/assets/c500e525-1bac-49c1-96a8-a840ba6b6c75)
 
 # WPF2
+Головин, Савелов
